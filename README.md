@@ -1,2 +1,2 @@
 # Memify
-An algorithm wrtiiten in python to create funny videos of popular songs. 
+An algorithm wrtiiten in python to create funny videos of popular songs. Using 
