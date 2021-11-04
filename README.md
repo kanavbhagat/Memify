@@ -1,2 +1,2 @@
 # Memify
-An algorithm wrtiiten in python to create funny videos of popular songs. Using libraries like subtitle_scraper and youtube_dl, lyrics and the audio of the song is fetched from the youtube. The lyrics are processed to create a a funny video by combining multiple gifs gathered from the giphy. 
+An algorithm is written in python to create funny videos of popular songs. Using libraries like Beautiful Soup and youtube_dl, lyrics and the audio of the desired song is fetched from youtube. The lyrics are processed to create a funny video by stitching multiple gifs gathered from the giphy.com
